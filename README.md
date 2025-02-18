@@ -42,3 +42,6 @@ Download and install Python from python.org.
 Execute the following command:
 python quiz_game.py
 
+### Author
+Shreya Gadagi
+GitHub: [Shreya250503](https://github.com/Shreya250503)
