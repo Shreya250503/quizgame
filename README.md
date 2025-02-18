@@ -41,3 +41,4 @@ Download and install Python from python.org.
 3.Run the Python script
 Execute the following command:
 python quiz_game.py
+
